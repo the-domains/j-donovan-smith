@@ -1,7 +1,7 @@
 name: J. Donovan Smith
 favicon: null
 layout_spectrum: 0.6910035605542362
-typography_spectrum: 0.5523134262766689
+typography_spectrum: 0.54717
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#000000'
+    - '#244366'
+    - '#49739e'
+    - '#fefefe'
+    - '#b2e4f9'
   brandStrength: 0.5008333618752658
   lightness: 0.7104904816951603
   saturation: 0.735858557280153
