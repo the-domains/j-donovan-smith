@@ -19,6 +19,10 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: J. Donovan Smith
+  email: info@jdonovansmith.com
+  url: www.jdonovansmith.com
 name: J. Donovan Smith
 cta:
   domain: null
