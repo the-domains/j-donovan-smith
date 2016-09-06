@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-09-02T17:39:24.944Z'
+datePublished: '2016-09-02T17:45:52.874Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-09-02T17:11:41.268Z'
+dateModified: '2016-09-02T17:45:52.403Z'
 title: ''
 publisher: {}
 description: >-
@@ -12,10 +12,12 @@ description: >-
   other forms. It was amazing to watch his fingers move. This photo was to
   depict a guitarist deep in thought about his work, with the design to reflect
   what he plays. 
-starred: false
 sourcePath: >-
   _posts/2016-09-02-this-was-a-full-photoshoot-of-dan-a-guitarist-you-think-jus.md
-_type: Blurb
+hasPage: true
+starred: false
+url: this-was-a-full-photoshoot-of-dan-a-guitarist-you-think-jus/index.html
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3474c9a5-0c9e-45bf-828e-8287cc5c6d34.jpg)
