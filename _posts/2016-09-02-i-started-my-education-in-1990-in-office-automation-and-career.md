@@ -1,9 +1,12 @@
 ---
-datePublished: '2016-09-02T17:39:49.825Z'
+datePublished: '2016-09-02T22:05:21.347Z'
+sourcePath: >-
+  _posts/2016-09-02-i-started-my-education-in-1990-in-office-automation-and-career.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T17:39:49.457Z'
+dateModified: '2016-09-02T22:05:20.352Z'
 title: ''
 publisher: {}
 description: >-
@@ -13,9 +16,6 @@ description: >-
   elective in Aldus FreeHand, which later became Macromedia, which then became
   Adobe). I fell in love with the program and that was the start of my career in
   design.
-sourcePath: >-
-  _posts/2016-09-02-i-started-my-education-in-1990-in-office-automation-and-career.md
-hasPage: true
 starred: false
 url: i-started-my-education-in-1990-in-office-automation-and-career/index.html
 _type: Article
