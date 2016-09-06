@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[J. Donovan Smith]]></title>
-        <description><![CDATA[J. Donovan Smith]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[DESIGN, MOTORCYCLES & LIFE]]></title>
+        <description><![CDATA[DESIGN, MOTORCYCLES & LIFE]]></description>
+        <link>https://thegrid.ai/j-donovan-smith/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 17:01:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 02 Sep 2016 18:00:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/j-donovan-smith/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
-            <guid isPermaLink="false">6bef1806-ff9b-4124-bc89-fdf5953e0403</guid>
-            <pubDate>Sat, 19 Dec 2015 17:01:42 GMT</pubDate>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3474c9a5-0c9e-45bf-828e-8287cc5c6d34.jpg">]]></description>
+            <link>https://thegrid.ai/j-donovan-smith/this-was-a-full-photoshoot-of-dan-a-guitarist-you-think-jus/index.html</link>
+            <guid isPermaLink="false">e26a0d27-e220-43dd-b966-f86f8458a632</guid>
+            <pubDate>Fri, 02 Sep 2016 17:45:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/069b6e29-7130-4d54-8b4e-e5828e6e49d7.jpg">]]></description>
+            <link>https://thegrid.ai/j-donovan-smith/i-started-my-education-in-1990-in-office-automation-and-career/index.html</link>
+            <guid isPermaLink="false">275e59b7-0134-445e-beaf-89b690919d22</guid>
+            <pubDate>Fri, 02 Sep 2016 17:39:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
