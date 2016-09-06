@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: About
+    id: 275e59b7-0134-445e-beaf-89b690919d22
+    type: content
 favicon: null
 title: 'DESIGN, MOTORCYCLES & LIFE'
 description: A creative journey through time and space
