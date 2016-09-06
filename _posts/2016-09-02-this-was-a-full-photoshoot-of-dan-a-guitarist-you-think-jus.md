@@ -1,9 +1,12 @@
 ---
-datePublished: '2016-09-02T17:45:52.874Z'
+datePublished: '2016-09-02T22:08:48.703Z'
+sourcePath: >-
+  _posts/2016-09-02-this-was-a-full-photoshoot-of-dan-a-guitarist-you-think-jus.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T17:45:52.403Z'
+dateModified: '2016-09-02T22:08:48.049Z'
 title: ''
 publisher: {}
 description: >-
@@ -11,10 +14,7 @@ description: >-
   rock with a little flare, but on the contrary - he plays classical and many
   other forms. It was amazing to watch his fingers move. This photo was to
   depict a guitarist deep in thought about his work, with the design to reflect
-  what he plays. 
-sourcePath: >-
-  _posts/2016-09-02-this-was-a-full-photoshoot-of-dan-a-guitarist-you-think-jus.md
-hasPage: true
+  what he plays.
 starred: false
 url: this-was-a-full-photoshoot-of-dan-a-guitarist-you-think-jus/index.html
 _type: Article
